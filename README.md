@@ -9,7 +9,11 @@
 
 ### Description
 
-Description goes here
+Make DSM show the correct TiB, GiB, MiB and KiB IEC labels instead of TB, GB, MB and KB binary labels.
+
+- For Deutsch and Czech users it also changes kB to KiB.
+- For French users it changes To, Go, Mo and Ko to Tio, Gio, Mio and Kio.
+- For Russian users it changes TБ, GБ, MБ and ГБ to TиБ, GиБ, MиБ and ГиБ.
 
 ### Download the script
 
@@ -49,7 +53,7 @@ If the script won't run check the following:
 ### Screenshots
 
 <!--- <p align="center">Description of image 1 goes here</p> --->
-<p align="center"><img src="/images/IMAGE_NAME.png"></p>
+<p align="center"><img src="/images/screenshot.png"></p>
 
 <br>
 
