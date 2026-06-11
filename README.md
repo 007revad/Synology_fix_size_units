@@ -1,4 +1,4 @@
-# <img src="images/icon.png" width="40"> Heading goes here
+# Synology fix size units
 
 <a href="https://github.com/007revad/Synology_fix_size_units/releases"><img src="https://img.shields.io/github/release/007revad/Synology_fix_size_units.svg"></a>
 [![Github Releases](https://img.shields.io/github/downloads/007revad/Synology_fix_size_units/total.svg)](https://github.com/007revad/Synology_fix_size_units/releases)
@@ -14,6 +14,8 @@ Make DSM show the correct TiB, GiB, MiB and KiB IEC labels instead of TB, GB, MB
 - For Deutsch and Czech users it also changes kB to KiB.
 - For French users it changes To, Go, Mo and Ko to Tio, Gio, Mio and Kio.
 - For Russian users it changes TБ, GБ, MБ and ГБ to TиБ, GиБ, MиБ and ГиБ.
+
+**Note:** You should schedule the script to run as root at boot-up to preserve the changes after any DSM updates.
 
 ### Download the script
 
@@ -55,7 +57,7 @@ If the script won't run check the following:
 <!--- <p align="center">Description of image 1 goes here</p> --->
 <p align="center"><img src="/images/screenshot.png"></p>
 
-<br>
+<!--- <br> --->
 
 <!--- <p align="center">Description of image 2 goes here</p> --->
-<p align="center"><img src="/images/IMAGE_NAME.png"></p>
+<!--- <p align="center"><img src="/images/IMAGE_NAME.png"></p> --->
