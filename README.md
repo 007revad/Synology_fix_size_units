@@ -57,7 +57,12 @@ If the script won't run check the following:
 <!--- <p align="center">Description of image 1 goes here</p> --->
 <p align="center"><img src="/images/screenshot.png"></p>
 
-<!--- <br> --->
+<br>
 
-<!--- <p align="center">Description of image 2 goes here</p> --->
-<!--- <p align="center"><img src="/images/IMAGE_NAME.png"></p> --->
+<p align="center">French screenshot</p>
+<p align="center"><img src="/images/screenshot_fre.png"></p>
+
+<br>
+
+<p align="center">Russian screenshot</p>
+<p align="center"><img src="/images/screenshot_rus.png"></p>
